@@ -1,2 +1,5 @@
-print("This is my fitst version  of code for this application")
-print("Presently i am practicing the python code")
+hungry = input("are you hungry ..? :")
+if hungry == "yes":
+    print("Go and eat samosa")
+else:
+    print("Go and finish your home works")
